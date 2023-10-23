@@ -1,19 +1,13 @@
 {
-    "name": "alloyproxydemo",
+    "name": "emeralds",
     "version": "1.0.0",
-    "description": "Proxy library to unblock the web!",
+    "description": "cool site",
     "main": "app.js",
     "scripts": {
         "test": "node app.js",
         "start": "node app.js"
     },
-    "keywords": [
-        "proxy",
-        "unblocker",
-        "web",
-        "proxy"
-    ],
-    "author": "Titanium Network",
+    "keywords": [""],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/titaniumnetwork-dev/alloyproxy/issues"
